@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Li_weather",
+    "slug": "Li_weather",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "이건 아주 심플 하지 않은 날씨앱이야 하지만 난 심플하다고 할거임 내 마음 ㅋㅋ루삥뽕",
+    "githubUrl": "https://github.com/liam824css/Li_weather"
+  }
+}
